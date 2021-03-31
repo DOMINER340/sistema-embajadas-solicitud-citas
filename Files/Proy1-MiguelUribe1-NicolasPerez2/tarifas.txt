@@ -1,0 +1,6 @@
+#VISAS
+#id--tipo-------valor
+10  *Turismo     *70000
+20  *Estudiante  *50000
+30  *Trabajo     *200000
+#FIN

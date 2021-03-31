@@ -1,0 +1,5 @@
+--REPORTE DE SOLICITUDES EMBAJADA DE USA
+Fecha: 2020-10-10
+
+#numPass—-----nombre-----------tipoVisa----numSolicitud
+111       @Grettel Lahmann     @Turismo     @1

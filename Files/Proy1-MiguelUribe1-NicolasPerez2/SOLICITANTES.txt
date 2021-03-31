@@ -1,0 +1,10 @@
+#SOLICITANTES
+#numPass—--nombre----paisOrigen--ciudadNac--fechaNac--email-------infoAd
+111 *Grettel Lahmann *USA     *Chicago	 *2017-12-30 *gth@yahoo.es  *miguel angel
+222 *Yves Davoine	*Francia *Grenoble *1995-12-30 *davoine@gmail.com
+333 *Miguel Uribe *USA     *Chicago	 *1950-08-28 *Miguel@yahoo.es  *Nestor Uribe
+444 *Gabriel Salas 	*Chile   *Viña     *1960-05-21 *gsal@hotmail.com
+444 *Keiko Tamura 	*Japón   *Tokio    *1945-08-13 *keiko@gmail.com
+555 *John Kidman    *Austria  *Viena    *2008-08-13 *kidm@yahoo.com	*Universidad
+666 *Alonso Perea    *Peruano  *Lima    *2007-07-12 *AlonL@yahoo.com	*Bachillerato
+#FIN

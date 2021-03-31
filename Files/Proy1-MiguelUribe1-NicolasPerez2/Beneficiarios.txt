@@ -1,0 +1,6 @@
+--REPORTE DE BENEFICIARIOS 
+
+#numPass—-----nombre-----------valorVisa
+111   @Grettel Lahmann     @8050.0
+El valor total en pesos que se dejó de recaudar por visas de beneficiados
+es: 72450.0

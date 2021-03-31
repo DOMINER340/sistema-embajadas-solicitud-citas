@@ -1,0 +1,51 @@
+#VISA
+#tipoVisa
+Turismo   	
+#REQUISITOS
+Dos fotos 4x5
+Copia del pasaporte
+Reserva de avión o de medio de transporte
+Reserva hotelera
+Certificaciones bancarias
+Formulario de solicitud diligenciado
+Seguro médico
+Certificado laboral
+#VISA
+#tipoVisa
+Estudiante
+#REQUISITOS
+Tres fotos 4x5
+Copia del pasaporte
+Reserva de avión o de medio de transporte
+Domicilio en el país del sagrado corazón
+Certificaciones económicas
+Formulario de solicitud diligenciado
+Seguro médico
+Certificado de inscripción al programa
+#VISA
+#tipoVisa
+Trabajo   
+#REQUISITOS
+Dos fotos 4x5
+Copia del pasaporte
+Reserva de avión o de medio de transporte
+Domicilio en el país del sagrado corazón
+Certificaciones bancarias
+Formulario de solicitud diligenciado
+Seguro médico
+Certificado laboral
+Carta de acogida de la empresa
+#VISA
+#tipoVisa
+Conyuge 
+#REQUISITOS
+Dos fotos 4x5
+Copia del pasaporte
+Documento de identificación del cónyuge
+Reserva de avión o de medio de transporte
+Domicilio en el país del sagrado corazón
+Certificaciones económicas personales
+Certificaciones económicas del cónyuge
+Formulario de solicitud diligenciado
+Seguro médico
+#FIN
